@@ -1,4 +1,13 @@
+body {
+  background: linear-gradient(155deg, rgba(15,250,255,1) 0%, rgba(112,236,195,1) 35%, rgba(185,255,0,1) 94%);
+  height: 1vh;
+  width: 100%;
+}
+
 .App {
+  /* display: flex; */
+  position: relative;
   text-align: center;
-  display: flex;
+  width: 50%;
+  margin: 0 auto;
 }
